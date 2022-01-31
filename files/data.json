@@ -124,4 +124,9 @@
         "name":"Check Security Headers",
         "link":"https://securityheaders.com/?q=domainname&followRedirects=on"
     }
+	"25":{
+        "img":"images/24.png",
+        "name":"Check Security Headers",
+        "link":"https://whois.domaintools.com/domainname&followRedirects=on"
+    }
 }
