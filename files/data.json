@@ -126,7 +126,7 @@
     }
 	"25":{
         "img":"images/24.jpg",
-        "name":"Check Security Headers",
+        "name":"Whois",
         "link":"https://whois.domaintools.com/domainname&followRedirects=on"
     }
 }
